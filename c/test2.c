@@ -24,7 +24,7 @@ void comparee(){
         }
     }
     if(t==0)
-    printf("0");
+    printf("0\n");
     printf("%d",strcmp(s1,s2));
 }
 
