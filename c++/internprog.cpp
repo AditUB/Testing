@@ -311,6 +311,7 @@ void day5()
     SumNum(num1,num2,num3,num4);    
 }
 
+
 int main()
 {
     day2();
@@ -319,3 +320,30 @@ int main()
     day5();
     return 0;
 }
+
+
+//    #include <iostream> 
+
+//    using namespace std; 
+
+//    int main() 
+
+//    { 
+
+//        int p; 
+
+//        bool a = true; 
+
+//        bool b = false; 
+
+//        int x = 10; 
+
+//        int y = 5; 
+
+//        p = ((x | y) + (a + b)); 
+
+//        cout << p; 
+
+//        return 0; 
+
+//    } 
