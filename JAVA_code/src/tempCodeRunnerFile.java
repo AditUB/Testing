@@ -1,4 +1,7 @@
-if (a.length >= 4) {
-            // if ((a[i] == x && a[i + 1] == y + 1) && (a[i + 2] == x + 1 && a[i + 3] == y))
-            // return 0;
+if (x == n - 1) {
+            // return a[x][y] + table[x][y];
+            // }
+
+            // if (y == m - 1) {
+            // return a[x][y] + table[x][y];
             // }
